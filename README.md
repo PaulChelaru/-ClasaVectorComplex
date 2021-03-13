@@ -23,4 +23,4 @@
  <li>metoda  publica  pentru  calculul  sumei  tuturor  elementelor  vectorului,  care  sa  utilizeze operatorul + din clasa de numere complexe</li>
 </ul>
 
-<h2>Clasa Complex a fost implementata in timpul orelor de laborator</h2>
+<h4>Clasa Complex a fost implementata in timpul orelor de laborator</h4>
